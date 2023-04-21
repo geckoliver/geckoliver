@@ -6,7 +6,7 @@ Data Engineer and Data Analyst
 
 I've been working with IT are in more or less 10 years of experience, focused on helping companies in the role of data engineering, proposing the best way for new or existing data processing using the best tools on the market, and integrating the most diverse teams to gain more experience and performance. And I really found a passion for data engineering, especially using the cloud for everything
 
-* 🌍  I'm based in Brazil
+* 🌍  I'm based in Portugal 
 * ✉️  You can contact me at [ged-son@hotmail.com](mailto:ged-son@hotmail.com)
 
 ### Skills
